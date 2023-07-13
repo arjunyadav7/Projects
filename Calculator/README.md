@@ -15,3 +15,4 @@ A simple calculator built using HTML, CSS and JavaScript.
 - Last operation will show up above the input box every time any of the operators is selected.
 
 ## Demo
+   https://arjunyadav7.github.io/Projects/Calculator/index.html
